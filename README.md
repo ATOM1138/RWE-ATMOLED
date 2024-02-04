@@ -1,4 +1,6 @@
 # RWE-ATMOLED
+rwe+ atmoled is a theme j made to make rwe look more modern and fresh as well as less bright. thus oled in the name.
+![demo122](https://media.discordapp.net/attachments/1191580004014895145/1203802985214378014/Screenshot_20240204_214304.jpg?ex=65d26be5&is=65bff6e5&hm=f58b6b4de4cefb326070e3179f22b5fb0d51c122899cb8a9e65ada834944a1dd&)
 
 ## INSTALLING 
 
