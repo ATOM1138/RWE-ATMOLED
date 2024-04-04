@@ -5,7 +5,7 @@
 		"width": 1400,
 		"height": 900,
 		"fullscreen": false,
-		"fontsize": 2,
+		"fontsize": 20,
 		"colormul": 20,
 		"size": 100,
 		"font": "IBMPlexMono.ttf",
